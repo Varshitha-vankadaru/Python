@@ -40,6 +40,7 @@ def util_color(
     Pseudo-Code
 
     Base Case:
+    #the first case
     1. Check if coloring is complete
         1.1 If complete return True (meaning that we successfully colored the graph)
 
